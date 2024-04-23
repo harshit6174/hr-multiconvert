@@ -1,6 +1,6 @@
-# MultiConvert
+# hr-multiconvert
 
-MultiConvert is a versatile npm package that provides seamless conversion capabilities for various units, including currency, length, weight, and temperature. It offers developers a reliable solution for performing unit conversions in their projects.
+hr-multiconvert is a versatile npm package that provides seamless conversion capabilities for various units, including currency, length, weight, and temperature. It offers developers a reliable solution for performing unit conversions in their projects.
 
 ## Features
 
@@ -11,7 +11,7 @@ MultiConvert is a versatile npm package that provides seamless conversion capabi
 
 ## Installation
 
-You can install hr-multiConvert via npm:
+You can install hr-multiconvert via npm:
 
 ```bash
 npm install hr-multiconvert
@@ -58,6 +58,6 @@ console.log(result); // Output: Converted temperature in Fahrenheit
 For API reference used in this project you can refer to [API documentation](https://github.com/everapihq/freecurrencyapi-js)
 
 ## License
-MultiConvert is licensed under the Apache License 2.0.
+hr-multiconvert is licensed under the Apache License 2.0.
 
 
