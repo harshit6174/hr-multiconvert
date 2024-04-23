@@ -57,7 +57,7 @@ console.log(result); // Output: Converted temperature in Fahrenheit
 ## API Documentation
 For API reference used in this project you can refer to [API documentation](https://github.com/everapihq/freecurrencyapi-js)
 
-##License
+## License
 MultiConvert is licensed under the Apache License 2.0.
 
 
