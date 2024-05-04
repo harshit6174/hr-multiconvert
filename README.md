@@ -2,6 +2,7 @@
 
 hr-multiconvert is a versatile npm package that provides seamless conversion capabilities for various units, including currency, length, weight, and temperature. It offers developers a reliable solution for performing unit conversions in their projects.
 
+
 ## Features
 
 - **Currency Conversion:** Convert between different currencies using an API.
@@ -21,9 +22,9 @@ npm install hr-multiconvert
 ```
 import { convertCurrency } from 'hr-multiconvert';
 
-convertCurrency('USD', 'EUR', 100)
+convertCurrency('USD', 'INR', 100)
   .then(result => {
-    console.log(result); // Output: Converted amount in EUR
+    console.log(result); // Output: Converted amount in INR
   })
   .catch(error => {
     console.error('Error:', error);
